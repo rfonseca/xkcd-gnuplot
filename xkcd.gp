@@ -31,7 +31,7 @@ set noytics
 set xzeroaxis ls 11
 set yzeroaxis ls 11
 
-#Arrow end to the axis (front doesn't seem to work)
+#Arrow end to the axis 
 set arrow from graph 0.95, first 0 to graph 1, first 0 size 2,3 front
 set arrow from first 0, graph 0.95 to first 0, graph 1 size 2,3 front
 
